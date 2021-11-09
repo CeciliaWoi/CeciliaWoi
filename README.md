@@ -11,14 +11,25 @@ Connect with me:
  🔹 https://www.linkedin.com/in/cecilia-woitasen-dev/
 
 Languages and tools:
+
 🔵 JavaScript
+
 🔴 React
+
 🔵 Redux
+
 🔴 PostgreSQL
+
 🔵 Sequelize
+
 🔴 MongoDB
+
 🔵 Mongoose
+
 🔴 Express
+
 🔵 NodeJS
+
 🔴 HTML
+
 🔵 CSS
