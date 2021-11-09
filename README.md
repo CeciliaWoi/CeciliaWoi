@@ -8,6 +8,7 @@
 - ⚡ Fun fact: I'm a photographer, I like design and I know some design tools, but in programming I love backend 🤣
 
 Connect with me: 
+ 
  🔹 https://www.linkedin.com/in/cecilia-woitasen-dev/
 
 Languages and tools:
