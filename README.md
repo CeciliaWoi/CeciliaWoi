@@ -5,12 +5,26 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on an app for buy and see courses about Technology [Academic Experience]
+- 🌱 I’m currently learning MongoDB and Passport.
+- 🤔 I’m looking for help with my job hunting.
+- 💬 Ask me about my interests and i´ll tell you what i´m up to
+- 📫 How to reach me: cecilia@woitasen.com.ar
+- ⚡ Fun fact: I'm a photographer, I like design and I know some design tools, but in programming I love backend 🤣
 -->
+
+Connect with me: 
+ 🔹 https://www.linkedin.com/in/cecilia-woitasen-dev/
+
+Languages and tools:
+🔵 JavaScript
+🔴 React
+🔵 Redux
+🔴 PostgreSQL
+🔵 Sequelize
+🔴 MongoDB
+🔵 Mongoose
+🔴 Express
+🔵 NodeJS
+🔴 HTML
+🔵 CSS
