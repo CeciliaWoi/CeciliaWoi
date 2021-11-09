@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**CeciliaWoi/CeciliaWoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋, I'm Cecilia Woitasen 🙋‍♀️
 
 - 🔭 I’m currently working on an app for buy and see courses about Technology [Academic Experience]
 - 🌱 I’m currently learning MongoDB and Passport.
@@ -11,7 +6,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about my interests and i´ll tell you what i´m up to
 - 📫 How to reach me: cecilia@woitasen.com.ar
 - ⚡ Fun fact: I'm a photographer, I like design and I know some design tools, but in programming I love backend 🤣
--->
 
 Connect with me: 
  🔹 https://www.linkedin.com/in/cecilia-woitasen-dev/
