@@ -13,24 +13,24 @@ Connect with me:
 
 Languages and tools:
 
-🔵 JavaScript
+◻ JavaScript
 
-🔴 React
+◻ React
 
-🔵 Redux
+◻ Redux
 
-🔴 PostgreSQL
+◻ PostgreSQL
 
-🔵 Sequelize
+◻ Sequelize
 
-🔴 MongoDB
+◻ MongoDB
 
-🔵 Mongoose
+◻ Mongoose
 
-🔴 Express
+◻ Express
 
-🔵 NodeJS
+◻ NodeJS
 
-🔴 HTML
+◻ HTML
 
-🔵 CSS
+◻ CSS
