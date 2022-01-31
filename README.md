@@ -1,9 +1,7 @@
 ### Hi there 👋, I'm Cecilia Woitasen 🙋‍♀️
 
-- 🔭 I’m currently working on an app for buy and see courses about Technology [Academic Experience]
-- 🌱 I’m currently learning MongoDB and Mongoose.
-- 🤔 I’m looking for help with my job hunting.
-- 💬 Ask me about my interests and i´ll tell you what i´m up to
+- 🔭 I’m currently working as a Software Developer Analyst at Mercado libre
+- 🌱 I’m currently learning Golang at de Backend Bootcamp in Mercado Libre
 - 📫 How to reach me: cecilia@woitasen.com.ar
 - ⚡ Fun fact: I'm a photographer, I like design and I know some design tools, but in programming I love backend 🤣
 
@@ -18,6 +16,10 @@ Languages and tools:
 ◻ React
 
 ◻ Redux
+
+◻ Golang
+
+◻ MySQL
 
 ◻ PostgreSQL
 
