@@ -10,13 +10,9 @@ Connect with me:
 
 Languages and tools:
 
-◻ JavaScript
-
-◻ React
-
-◻ Redux
-
 ◻ Golang
+
+◻ JavaScript
 
 ◻ MySQL
 
@@ -31,6 +27,10 @@ Languages and tools:
 ◻ Express
 
 ◻ NodeJS
+
+◻ React
+
+◻ Redux
 
 ◻ HTML
 
